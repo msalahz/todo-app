@@ -1,6 +1,10 @@
 {
   "name": "todo-app",
-  "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Mohammed Zaghloul",
+    "email": "m.salahz86@gmail.com"
+  },
   "type": "module",
   "scripts": {
     "build": "cross-env NODE_ENV=production react-router build",
